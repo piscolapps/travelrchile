@@ -1,7 +1,7 @@
 Travelr Chile
 =============
 _Una app de información turística de Chile que funciona._
-###Convenciones:
+###Convenciones
 - Todo con interfaces
 - Object: camel case. MyObject
 - Métodos: camelback. myMethod
@@ -14,5 +14,5 @@ _Una app de información turística de Chile que funciona._
 - Github.
 - Usar gradle siempre.
 - Android studio.
-Git:
+###Git
 - 2 Branches: Master y Develop. Todo lo nuevo, hacerlo en una branch nueva y hacer el merge con Develop cuando esté lista.
