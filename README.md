@@ -2,7 +2,7 @@
 Una app de información turística de Chile que funciona.
 
 Convenciones
--Todo con interfaces \n
+-Todo con interfaces
 -Object: camel case. MyObject
 -Métodos: camelback. myMethod
 -Package: minúsculas y plural. packages
