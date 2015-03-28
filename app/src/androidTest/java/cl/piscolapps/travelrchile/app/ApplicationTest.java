@@ -1,4 +1,4 @@
-package com.piscolapps.travelrchile;
+package cl.piscolapps.travelrchile.app;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
